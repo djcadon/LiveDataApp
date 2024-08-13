@@ -2,7 +2,9 @@
     "files": [
         "FloorView.ui",
         "MachineView.ui",
+        "MachineView.py",
         "MainWindow.py",
-        "MainWindow.ui"
+        "MainWindow.ui",
+        "SingularMachine.ui"
     ]
 }

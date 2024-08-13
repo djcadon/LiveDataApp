@@ -397,3 +397,7 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 /MachineDataAPP/.qtcreator/Python_3_9_64_bit_venv
+/MachineDataAPP/.qmake.stash
+/MachineDataAPP/MachineDataAPP.qtvscr
+/MachineDataAPP/MachineDataAPP.vcxproj.filters
+/MachineDataAPP/MachineDataAPP.vcxproj
