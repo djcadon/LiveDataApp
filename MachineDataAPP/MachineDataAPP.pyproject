@@ -2,8 +2,6 @@
     "files": [
         "FloorView.ui",
         "MachineView.ui",
-        "MachineView.py",
-        "MainWindow.py",
         "MainWindow.ui",
         "SingularMachine.ui"
     ]
